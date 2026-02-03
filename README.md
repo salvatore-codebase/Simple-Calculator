@@ -5,7 +5,7 @@ An AI Agent generated app using Replit.
 A simple powerful calculator that can perform basic artihmetic.
 
 ## Overview
-This app is a standard calculator with an interesting colorway. Its purpose is to perfiorm basic arithmetic, while also displaying a history log of your most recent calculations. I built this app as a beginner project to help learn computer programming and also because it is one of the most widely known useful tools that is used daily.
+This app is a standard calculator with an interesting colorway. Its purpose is to perform basic arithmetic, while also displaying a history log of your most recent calculations. I built this app as a beginner project to help learn computer programming and also because it is one of the most widely known useful tools that is used daily.
 
 ## Features
 Main Functionalities:
@@ -24,7 +24,7 @@ Main Functionalities:
 ## Installation & Usage
 This app is not in its final state, and is used for learning and showcase purposes. To see the preview and use the app (on Replit), please refer to the Link in the "About me" section of the repository on Github, or the link below as well.
 
-https://github.com/salvatore-codebase/Simple-Calculator
+https://replit.com/@salvatore-dev/Simple-Calculator
 
 ## Notes
 This project was built as a learning exercise to practice working with a modern React frontend and a Node.js backend.
