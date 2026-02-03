@@ -16,7 +16,7 @@ Main Functionalities:
 
 ## Tech Stack
 - **Language:** Typescript
-- **Frontend:** React, Radix UI, React Hook Form
+- **Frontend:** React, Vite, Tailwind CSS, Radix UI, React Hook Form
 - **Backend:** Node.js, Express
 - **Database:** Drizzle ORM
 - **Tools:** drizzle-kit, npm, Git, Replit
