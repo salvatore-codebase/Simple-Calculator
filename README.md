@@ -1,5 +1,5 @@
 # Simple-Calculator
-(AI Agent generated app using Replit)
+An AI Agent generated app using Replit.
 
 ## Description
 A simple powerful calculator that can perform basic artihmetic.
