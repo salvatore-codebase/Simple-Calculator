@@ -24,7 +24,7 @@ Main Functionalities:
 ## Installation & Usage
 This app is not in its final state, and is used for learning and showcase purposes. To see the preview and use the app (on Replit), please refer to the Link in the "About me" section of the repository on Github, or the link below as well.
 
-https://replit.com/@salvatore-dev/Simple-Calculator
+https://dc5aad80-08b5-4f77-b2de-c5bbefc14316-00-3hir7jpeep2p8.worf.replit.dev/
 
 ## Notes
 This project was built as a learning exercise to practice working with a modern React frontend and a Node.js backend.
